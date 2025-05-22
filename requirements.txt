@@ -1,0 +1,14 @@
+transformers
+peft
+datasets
+accelerate
+torch
+tensorflow
+keras
+keras-nlp
+bitsandbytes
+einops
+tqdm
+wandb
+evaluate
+scikit-learn
